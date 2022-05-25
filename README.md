@@ -1,6 +1,4 @@
-# tsaw8.github.io
-
-## Personal Portfolio Website
+## Thapani's Personal Portfolio Website
 
 https://tsaw8.github.io/
 
