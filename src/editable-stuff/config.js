@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/thapani_profile.jpg"),
   imageSize: 375,
   message:
-    "My name is Thapani Sawaengsri and I am a self-taught developer. Driven by curiosoity and seeking to make a positive impact, I enjoy creating software that eases challenges people face on a daily basis. I am also passionate about data science and volunteering. In my spare time, I mentor high school girls to get them excited about STEM.",
+    "My name is Thapani Sawaengsri and I am a self-taught developer. Driven by curiosity and seeking to make a positive impact, I enjoy creating software that eases challenges people face on a daily basis. I am also passionate about data science and volunteering. In my spare time, I mentor high school girls to get them excited about STEM.",
   resume: "https://docs.google.com/document/d/18S83ETa6-98fYK2OGtNs_Sm7uataYOVot_hr-wTXs8A/edit?usp=sharing",
 };
 
