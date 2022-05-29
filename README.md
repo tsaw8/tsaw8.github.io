@@ -11,14 +11,7 @@
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
-
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+<!-- PROJECT LOGO -->
 
 ## Table of Contents
 
@@ -27,11 +20,6 @@
 - [Sharing 💗](#sharing-)
 - [Prerequisites 🍪](#prerequisites-)
 - [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
 
 ## Technology Stack 🛠️
 
@@ -40,32 +28,7 @@ Dependencies defined in package.json:
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
 | [Typist](https://github.com/jstejada/react-typist)
-| [GitHub API](https://developer.github.com/v3/repos/)
-| [Instagram API](https://www.instagram.com/developer/embedding/)
 
-## Structure ⚓
-
-- Navigation bar (optional)
-- Body
-  - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
-  - Resume | About me
-- About Me
-  - Display picture (optional)
-  - About myself, my Interests, Goals and Hobbies
-  - Things I'm good at (Skills)
-  - Resume button
-- Recent Projects (using GitHub API) (optional)
-- Leadership (optional)
-  - Paragraph
-  - Carousel images
-- Skills (optional)
-  - Technical Skills
-  - Soft Skills
-- Footer
-  - Footer Note (optional)
-  - Copyrights - open source
-  - Acknowledgements(
 
 ## Sharing 💗
 
@@ -127,100 +90,3 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     - Take a screenshot of your version and rename it "social-image.png" and place it there.  
     
    Next time if you make changes, repeat from step 8.
-
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
-
-## Showcase 🚀
-
-Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/justiceserv/justiceserv.github.io">
-        <img src="READMEdocs/justiceserv-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Guhyun Chung</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/hamzasohail0/home/">
-        <img src="READMEdocs/hamzasohail0-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Hamza Sohail</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/AymunTariq/home/">
-        <img src="READMEdocs/aymuntariq-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Aymun Tariq</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anaashrafi/home/">
-        <img src="READMEdocs/anaashrafi-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Ana Ashrafi</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/jefferyjohn/home/">
-        <img src="READMEdocs/jefferyjohn-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Jeffery John</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/remimestdagh/home/">
-        <img src="READMEdocs/remimestdagh-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Remi Mestdagh</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <a href="https://github.com/xunxdd/portfolio/tree/master">
-        <br />
-        <sub><b>Xun Ding</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/S-Philp/Shannel.philp">
-        <br />
-        <sub><b>Shannel Philp</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/bibinvargheset/home">
-        <br />
-        <sub><b>Bibin Varghese</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
-## Versão em Português :brazil:
-
-Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
-Novas contribuições e revisões na tradução são muito bem vindas!
-
-## Notice:
-
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
