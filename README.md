@@ -2,7 +2,7 @@
 
 ## Preview
 
-https://tsaw8.github.io/home
+https://tsaw8.github.io
 
 ## Status
 
