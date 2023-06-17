@@ -2421,7 +2421,7 @@
 			.icon.major.accent1 {
 				background: #666;
 				color: #ffffff;
-			}
+			}image 
 
 			.icon.major.accent2 {
 				background: #e89980;
@@ -3357,8 +3357,136 @@
 			color: #666 !important;
 		}
 
+/* Lotus_Cover */
 
-		
+#lotus_cover {
+	background-attachment:fixed;
+	background-color: #393939;
+	background-image:  url("../../images/lotus\ dance.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #393939;
+	padding: 12em 0 20em 0;
+	text-align: center;
+}
+
+	#lotus_cover :last-child {
+		margin-bottom: 0;
+	}
+
+	#lotus_cover h2, #lotus_cover h3, #lotus_cover h4, #lotus_cover h5, #lotus_cover h6 {
+		color: #393939;
+	}
+
+	#lotus_cover h2 {
+		font-size: 3.5em;
+		line-height: 1em;
+		margin: 0 0 0.5em 0;
+		padding: 0;
+	}
+
+	#lotus_cover p {
+		font-size: 1.25em;
+		margin-bottom: 1.75em;
+	}
+
+		#lotus_cover input[type="submit"],
+		#lotus_cover input[type="reset"],
+		#lotus_cover input[type="button"],
+		#lotus_cover .button {
+			background-color: transparent;
+			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+		color: #393939;
+		min-width: 12em;
+	}
+
+		#lotus_cover input[type="submit"]:hover,
+		#lotus_cover input[type="reset"]:hover,
+		#lotus_cover input[type="button"]:hover,
+		#lotus_cover .button:hover {
+				background-color: rgba(255, 255, 255, 0.1);
+		}
+
+		#lotus_cover input[type="submit"]:active,
+		#lotus_cover input[type="reset"]:active,
+		#lotus_cover input[type="button"]:active,
+		#lotus_cover .button:active {
+			background-color: rgba(255, 255, 255, 0.2);
+		}
+
+		#lotus_cover input[type="submit"].primary,
+		#lotus_cover input[type="reset"].primary,
+		#lotus_cover input[type="button"].primary,
+		#lotus_cover .button.primary {
+			background: #393939;
+			color: #666 !important;
+		}
+/* Cherryblossom_Cover */
+
+#cherryblossom_cover {
+	background-attachment:fixed;
+	background-color: #393939;
+	background-image:  url("../../images/cherryblossom.JPG");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #393939;
+	padding: 12em 0 20em 0;
+	text-align: center;
+}
+
+	#cherryblossom_cover :last-child {
+		margin-bottom: 0;
+	}
+
+	#cherryblossom_cover h2, #cherryblossom_cover h3, #cherryblossom_cover h4, #cherryblossom_cover h5, #cherryblossom_cover h6 {
+		color: #393939;
+	}
+
+	#cherryblossom_cover h2 {
+		font-size: 3.5em;
+		line-height: 1em;
+		margin: 0 0 0.5em 0;
+		padding: 0;
+	}
+
+	#cherryblossom_cover p {
+		font-size: 1.25em;
+		margin-bottom: 1.75em;
+	}
+
+		#cherryblossom_cover input[type="submit"],
+		#cherryblossom_cover input[type="reset"],
+		#cherryblossom_cover input[type="button"],
+		#cherryblossom_cover .button {
+			background-color: transparent;
+			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+		color: #393939;
+		min-width: 12em;
+	}
+
+		#cherryblossom_cover input[type="submit"]:hover,
+		#cherryblossom_cover input[type="reset"]:hover,
+		#cherryblossom_cover input[type="button"]:hover,
+		#cherryblossom_cover .button:hover {
+				background-color: rgba(255, 255, 255, 0.1);
+		}
+
+		#cherryblossom_cover input[type="submit"]:active,
+		#cherryblossom_cover input[type="reset"]:active,
+		#cherryblossom_cover input[type="button"]:active,
+		#cherryblossom_cover .button:active {
+			background-color: rgba(255, 255, 255, 0.2);
+		}
+
+		#cherryblossom_cover input[type="submit"].primary,
+		#cherryblossom_cover input[type="reset"].primary,
+		#cherryblossom_cover input[type="button"].primary,
+		#cherryblossom_cover .button.primary {
+			background: #393939;
+			color: #666 !important;
+		}		
 
 /* Main */
 
@@ -4032,3 +4160,17 @@
 			}
 
 	}
+
+		/* Custom */
+		#main-profile-pic {
+			display: block;
+			margin: -150px auto 5px;
+		}
+		#main-profile-pic img {
+			border-radius: 300px;
+		}
+		#about-profile img {
+			display: block;
+			margin: auto;
+			border-radius: 150px 10px;
+		}
